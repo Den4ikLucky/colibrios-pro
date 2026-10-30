@@ -1,0 +1,11 @@
+{
+  "site": "ColibriOS",
+  "host": "colibrios.pro",
+  "hosting": "GitHub Pages static",
+  "tma_url": "https://colibrios.pro/tma_magnet/",
+  "storefront_url": "https://colibri-os.com/",
+  "checkout_api_enabled": false,
+  "lavatop_webhook_enabled": false,
+  "instagram_webhook_forwarding_enabled": false,
+  "note": "This host serves static pages only. Payment and webhook backends require an independently authorized reverse proxy. Hosted Lava.top checkout is unchanged."
+}
