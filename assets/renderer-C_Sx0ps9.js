@@ -1,4 +1,4 @@
-import{n as e,t}from"./Talisman3DStage-CO2G94wb.js";var n=`#version 300 es
+import{n as e,t}from"./Talisman3DStage-BV_ZnsD7.js";var n=`#version 300 es
 precision highp float;
 in vec3 aPosition;in vec3 aNormal;in vec2 aUv;
 uniform mat4 uViewProjection;
