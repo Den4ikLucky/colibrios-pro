@@ -2,14 +2,10 @@
   "site": "Colibri Life \u00b7 Colibri Atlas",
   "host": "colibrilife.pro",
   "hosting": "GitHub Pages static",
-  "tma_url": "https://colibrios.pro/tma_magnet/",
   "storefront_url": "https://colibrilife.pro/",
   "checkout_api_enabled": false,
   "lavatop_webhook_enabled": false,
   "instagram_webhook_forwarding_enabled": false,
-  "note": "This host serves static pages only. Payment and webhook backends require an independently authorized reverse proxy. Hosted Lava.top checkout is unchanged.",
-  "colibrios_url": "https://colibrios.pro/",
-  "colibrios_os_url": "https://colibrios.pro/",
-  "checkout_url": "https://colibrios.pro/checkout.html",
+  "note": "This host serves static Colibri Life / Colibri Atlas pages only. Payment and webhook backends require an independently authorized reverse proxy.",
   "checkout_enabled": false
 }
